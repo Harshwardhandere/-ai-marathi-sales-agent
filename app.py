@@ -17,7 +17,7 @@ def load_model():
 model = load_model()
 
 # ---------- GOOGLE SHEET ----------
-SHEET_CSV_URL = "PASTE_YOUR_GOOGLE_SHEET_CSV_URL_HERE"
+SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/1KQj3SHLWRvCrMlvFZ-BIatnqxmwgaIpTisROLBaYhFg/export?format=csv"
 
 # ---------- SALES SCRIPT ----------
 def sales_script(step):
